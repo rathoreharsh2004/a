@@ -1,0 +1,6 @@
+{
+  "name": "Rathore Heritage Developers",
+  "description": "Heritage construction and luxury spaces shaped by traditional Rajasthani craftsmanship in Udaipur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
